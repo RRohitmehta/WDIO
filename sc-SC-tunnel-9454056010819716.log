@@ -1,0 +1,15 @@
+2021-03-07 23:32:51.332 [2316] Sauce Connect 4.6.4, build 5309 21ce484 
+2021-03-07 23:32:51.335 [2316] Proxy autodetection disabled
+2021-03-07 23:32:51.361 [2316] Serving metrics on 8888
+2021-03-07 23:32:51.361 [2316] Starting up; pid 2316
+2021-03-07 23:32:51.361 [2316] Command line arguments: C:\Users\ehheomr\Desktop\Desktop\Nagarro\NAGP\WebDriver IO\WDDemo\node_modules\saucelabs\build\.sc-v4.6.4\bin\sc.exe --no-autodetect=true --tunnel-identifier=SC-tunnel-9454056010819716 --user=rohitrr --api-key=7f59226d-9f93-4a11-a6db-bb1727ec561d --rest-url=https://saucelabs.com/rest/v1 
+2021-03-07 23:32:51.361 [2316] Log file: C:\Users\ehheomr\Desktop\Desktop\Nagarro\NAGP\WebDriver IO\WDDemo\sc-SC-tunnel-9454056010819716.log
+2021-03-07 23:32:51.362 [2316] Pid file: C:\Users\ehheomr\AppData\Roaming/sc_client-SC-tunnel-9454056010819716.pid
+2021-03-07 23:32:51.362 [2316] Timezone: IST GMT offset: 5h
+2021-03-07 23:32:51.362 [2316] Using no proxy for connecting to Sauce Labs REST API.
+2021-03-07 23:32:52.396 [2316] Started scproxy on port 63851.
+2021-03-07 23:32:52.396 [2316] Please wait for 'you may start your tests' to start your tests.
+2021-03-07 23:32:53.523 [2316] failed to check for existing tunnels
+2021-03-07 23:32:53.523 [2316] Sauce Connect could not establish a connection.
+2021-03-07 23:32:53.523 [2316] Please check your firewall and proxy settings.
+2021-03-07 23:32:53.523 [2316] Goodbye.
